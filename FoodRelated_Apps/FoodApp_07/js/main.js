@@ -5,6 +5,7 @@ $(window).on("scroll", function () {
         $("#topMenu").removeClass("scrolled");
     }
 });
+
 $(document).ready(function () {
     $(".owl-carousel").owlCarousel({
         // loop: true,
